@@ -8,3 +8,6 @@ the running program.
 
 
 [ip]: (http://en.wikipedia.org/wiki/Interactive_programming)
+
+
+理解函数指针还不错哦
